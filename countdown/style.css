@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,600&display=swap');
+
+
+body{
+	background-image: url('https://images.pexels.com/photos/326311/pexels-photo-326311.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+
+}
+
+h1{
+	text-align: center;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 2.5rem;
+	margin-top: 0;
+}
+.container{
+	border: 2px solid white;
+	width: 50rem;
+	height: 15rem;
+	margin: auto;
+	margin-top: 0;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+}
+
+.box{
+	margin: auto;
+	margin-top: 2.5rem;
+}
+
+.date{
+	width: 8rem;
+	height: 8rem;
+	border: 3px solid green;
+	border-radius: 50%;
+	color: white;
+	font-size: 5rem;
+	display: inline-flex;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	margin-right: 1.5rem;
+	margin-left: 1.5rem;
+}
+.second{
+	border: 3px solid blue;
+}
+.third{
+	border: 3px solid yellow;
+}
+.fourth{
+	border: 3px solid red;
+}
+
+.nouns{
+	height: 3.5rem;
+	color: white;
+	font-size: 2rem;
+	text-align: left;
+}
+
+.nouns span{
+	margin-right: 4rem;
+	margin-left: 4rem;
+
+}
+
+#noun-days{
+	margin-left: 5.7rem;
+}
+#noun-hours{
+	margin-left: 3rem;
+}
+#noun-minutes{
+	margin-left: 2.1rem;
+}
+#noun-seconds{
+	margin-left: 0.8rem;
+}
+
+.finalMassage{
+	color: white;
+	text-align: center;
+	font-size: 8rem;
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 3rem;
+}
